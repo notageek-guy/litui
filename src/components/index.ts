@@ -3,3 +3,7 @@ export * from "./Flex";
 export * from "./Input";
 export * from "./Spinner";
 export * from "./Avatar";
+export * from "./IconButton";
+export * from "./Grid";
+export * from "./Box";
+export * from "./Text";
