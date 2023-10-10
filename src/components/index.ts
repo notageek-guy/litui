@@ -7,3 +7,4 @@ export * from "./IconButton";
 export * from "./Grid";
 export * from "./Box";
 export * from "./Text";
+export * from "./Label";

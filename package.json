@@ -1,6 +1,6 @@
 {
-  "name": "@notageek-guy/litui",
-  "version": "0.0.3",
+  "name": "@manishxdev/litui",
+  "version": "0.0.1",
   "description": "A UI component library built with styled components and styled-system.",
   "source": "src/index.ts",
   "main": "dist/main.js",
@@ -33,6 +33,7 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
+    "lucide-react": "^0.284.0",
     "styled-components": "^6.0.8",
     "styled-system": "^5.1.5"
   }
