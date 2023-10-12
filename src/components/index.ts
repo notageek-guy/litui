@@ -8,4 +8,4 @@ export * from "./Grid";
 export * from "./Box";
 export * from "./Text";
 export * from "./Label";
-export * from "./Switcher";
+export * from "./Toggler";
