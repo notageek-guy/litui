@@ -1,6 +1,6 @@
 {
   "name": "@manishxdev/litui",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A UI component library built with styled components and styled-system.",
   "source": "src/index.ts",
   "main": "dist/main.js",
