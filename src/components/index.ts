@@ -10,3 +10,4 @@ export * from "./Text";
 export * from "./Label";
 export * from "./Toggler";
 export * from "./Stack";
+export * from "./Tabs";
