@@ -11,3 +11,4 @@ export * from "./Label";
 export * from "./Toggler";
 export * from "./Stack";
 export * from "./Tabs";
+export * from "./Modal";
